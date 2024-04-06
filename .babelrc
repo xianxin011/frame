@@ -1,0 +1,4 @@
+{"plugins": [
+    ["import", { "libraryName": "antd", "libraryDirectory": "es","style": "css" }],//重点！网上大多漏了句"libraryDirectory": "es",
+    "transform-runtime",// 这一句是我本地原有的˝，
+  ]}

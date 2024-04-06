@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  text-align: center;
+  width: 100%;
+  overflow: hidden;
+}
+.title{
+  font-family: PingFangSC, PingFang SC;
+  font-weight: 600;
+  font-size: 40px;
+  color: #353FEC;
+  line-height: 68px;
+  letter-spacing: 1px;
+  text-align: left;
+  font-style: normal;
+}
